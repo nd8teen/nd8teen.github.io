@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://nd8teen.github.io
+title: Desktops n Stuff
+tagline: Like, you know, whatever
+description: A place to share things I learn. 
+paginate: 5
